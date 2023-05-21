@@ -1,0 +1,10 @@
+﻿11. Construya una aplicación de tipo Web API que devuelva una 
+colección de objetos en memoria
+(Array, List, etc.) en un método GET
+
+
+12. Implemente el resto las operaciones CRUD y la persistencia de los datos utilizando un motor
+de bases de datos relacionales, y como tecnología de acceso a datos ADO .NET ó Entity
+Framework.
+
+FECHA DE ENTREGA: VIERNES 26 DE MAYO
